@@ -1,0 +1,32 @@
+{
+    "smtpHostname": "smtp-mail.outlook.com",
+    "port": "587",
+    "logo": "Logo URL",
+    "amigoList": [
+        {
+            "name": "Test Friend 1",
+            "email": "Test Email 1",
+            "giftTo": null
+        },
+        {
+            "name": "Test Friend 2",
+            "email": "Test Email 2",
+            "giftTo": null
+        },
+        {
+            "name": "Test Friend 3",
+            "email": "Test Email 3",
+            "giftTo": null
+        },
+        {
+            "name": "Test Friend 4",
+            "email": "Test Email 4",
+            "giftTo": null
+        },
+        {
+            "name": "Test Friend 5",
+            "email": "Test Email 5",
+            "giftTo": null
+        }
+    ]
+}
